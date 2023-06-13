@@ -1,0 +1,10 @@
+* trivial-json-codec
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.com/ediethelm/trivial-json-codec.git   |
+| commit  | {"messa  |
+| systems | trivial-json-codec |
+|---------+-------------------------------------------|
+
