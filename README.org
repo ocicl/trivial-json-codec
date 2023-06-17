@@ -2,9 +2,8 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.com/ediethelm/trivial-json-codec.git   |
-| commit  | {"messa  |
-| systems | trivial-json-codec |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------------------|
+| source  | git:https://gitlab.com/ediethelm/trivial-json-codec.git |
+| commit  | dd3ab7b80e79a99cadf24a36e8c8ea93b5451bb5                |
+| systems | trivial-json-codec                                      |
+|---------+---------------------------------------------------------|
